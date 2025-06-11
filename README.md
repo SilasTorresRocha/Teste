@@ -2,4 +2,4 @@
 gambirarta de teste
 
 
-Depois eu faço,Preguiça deDigitar coisa aqui.
+Depois eu faço, preguiça de digitar coisa aqui.
